@@ -1,54 +1,28 @@
-# 👋 Hi there, i am Xushi!
-I am a solo developer and a student in computer science.
+# Hi there! 👋 
 
-## Know
-Those are the things i consider myself confident enough to know.
-### Programming languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+i am Xushi!
 
-## Studying
-Those are the things we are currently studying at school.
-### Programming languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+I am a solo developer and a student.
 
-### Framework, platforms and libraries
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-## Learning
-Those are the things i am currently learning, either for a personal project or for fun.
-### Programming languages
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+:page_with_curl: i am currently learning:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### Framework, platforms and libraries
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## On hold
-Those are the things i plan to learn in future for some reasons.
-### Programming languages
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+:rocket: Here are some projects i am working on:
+- [xushidev.github.io](https://github.com/xushidev/xushidev.github.io) :warning: under construction
+- [system](https://github.com/xushidev/system) :warning: under construction
 
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xushidev">
+<img src="https://github-profile-trophy.vercel.app/?username=xushidev">
+</details>
 
-
-
-
-<!--
-**xushidev/xushidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me :email:
+<a href="mailto:xushi.official@gmail.com"><img src="https://img.shields.io/badge/Email-xushi.official%40gmail.com-28a8ea"></a>
+<a href="https://xushidev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-xushidev.github.io-blueviolet"></a>
+(:wrench: Personal Site in progress)
