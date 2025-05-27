@@ -12,16 +12,15 @@ Solo developer and a student.
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 :rocket: Here are some projects i am working on:
-- [xushidev.github.io](https://github.com/xushidev/xushidev.github.io) :warning: under construction
-- [system](https://github.com/xushidev/system) :warning: under construction
+- [system](https://github.com/xushidev/system) ⚠️ under construction
 
 <details>
-<summary>:computer: Most used languages</summary>
+<summary>💻 Most used languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xushidev&layout=compact&theme=dark">
 </details>
 
 <details>
-<summary>:trophy: Github Stats</summary>
+<summary>🏆 Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=xushidev&show_icons=true&theme=dark">
 <!---
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xushidev">
@@ -34,4 +33,3 @@ Feel free to contact me :email:
 <a href="mailto:xushi.official@gmail.com"><img src="https://img.shields.io/badge/Email-xushi.official%40gmail.com-28a8ea"></a>
 <a href="https://xushidev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-xushidev.github.io-blueviolet"></a>
 <br>
-( :wrench: Personal Site in progress)
