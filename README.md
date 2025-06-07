@@ -12,7 +12,7 @@ Solo developer and a student.
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 :rocket: Here are some projects i am working on:
-- [system](https://github.com/xushidev/system) ⚠️ under construction
+- None for now
 
 <details>
 <summary>💻 Most used languages</summary>
