@@ -12,7 +12,7 @@ Solo developer and a student.
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 :rocket: Here are some projects i am working on:
-- None for now
+- [PurePrismTxt](https://github.com/xushidev/PurePrismTxt) on pre-alpha right now!
 
 <details>
 <summary>💻 Most used languages</summary>
